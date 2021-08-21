@@ -1,4 +1,4 @@
-![Profile Views]()
+![Profile Views](https://birchtree.nyc3.digitaloceanspaces.com/images/wwdc18/dev-dots.png)
 
 ## **Hi! I am Saúl Miranda 👋**
 
