@@ -4,7 +4,7 @@
 
 <h1>## **Hi! I am Saúl Miranda 👋**</h1>
 
-#### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)
+<h3>#### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)</h3>
     
 - ⚡ I’m currently learning everything 🤣 
 - 🥅 2021 Goals: Learning more than you already know to gain new knowledge
