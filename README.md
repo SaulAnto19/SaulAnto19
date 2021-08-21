@@ -2,9 +2,7 @@
   <img src="https://cdn.dribbble.com/users/1066583/screenshots/6187370/robot_wallpaper_copy_4x.png?compress=1&resize=400x300" />
 </p>
 
-## **Hi! I am Saúl Miranda 👋**
-
-<!-- ![](https://github.com/Ualb/Ualb/blob/master/readmegithub.png) -->
+<h1>## **Hi! I am Saúl Miranda 👋**</h1>
 
 #### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)
     
