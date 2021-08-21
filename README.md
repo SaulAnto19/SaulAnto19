@@ -1,4 +1,6 @@
-![Profile Views](https://cdn.dribbble.com/users/1066583/screenshots/6187370/robot_wallpaper_copy_4x.png?compress=1&resize=400x300)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1066583/screenshots/6187370/robot_wallpaper_copy_4x.png?compress=1&resize=400x300" />
+</p>
 
 ## **Hi! I am Saúl Miranda 👋**
 
