@@ -7,7 +7,7 @@
 <h3>#### I live in Managua, Nicaragua, i am a technology enthusiast and good friend :)</h3>
     
 - ⚡ I’m currently learning everything 🤣 
-- 🥅 2021 Goals: Learning more than you already know to gain new knowledge
+- 🥅 2022 Goals: Learning more than you already know to gain new knowledge
 - 🤣 Fun fact: I love to football / Electronic Music 
  
 ### Connect with me:
@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
- 
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][mdn]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mdn]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][mdn]
@@ -32,7 +32,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 
 <br />
-<br /> 
+<br />
 
 [twitter]: https://twitter.com/salio69422867
 [facebook]: https://www.facebook.com/saulantonio.mirandalopez/
@@ -47,4 +47,3 @@
 [postgresql]: https://www.postgresql.org
 
 #### :muscle: write, eat, repeat
-
