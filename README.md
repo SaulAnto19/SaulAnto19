@@ -12,8 +12,8 @@
  
 ### Connect with me:
   
-[<img align="left" width="25px" target="_blank" src="https://avatars3.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
-[<img align="left" width="25px" target="_blank" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"/>][facebook]
+[<img align="left" width="25px" src="https://avatars3.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
+[<img align="left" width="25px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"/>][facebook]
 
 <br />
 
