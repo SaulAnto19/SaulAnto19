@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1066583/screenshots/6187370/robot_wallpaper_copy_4x.png?compress=1&resize=400x300" />
+  <img src="https://i.ibb.co/dD89k46/personal.png" alt="personal" border="0">
 </p>
 
 <h1>## **Hi! I am Saúl Miranda 👋**</h1>
