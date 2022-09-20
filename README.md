@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/2dG2c3P"><img src="https://i.ibb.co/dD89k46/personal.png" alt="personal" border="0"></a>
+  <a href="https://ibb.co/2dG2c3P"><img src="https://i.ibb.co/4phy4RM/personal.png" alt="personal" border="0"></a>
 </p>
 
 <h1>## **Hi! I am Saúl Miranda 👋**</h1>
